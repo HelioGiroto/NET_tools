@@ -12,6 +12,7 @@
 ##          * Requer VLC instalado               ##
 ##        (se não: sudo apt install vlc)         ##
 ###################################################
+# original em: https://github.com/HelioGiroto/NET_online
 
 while :
 do 
